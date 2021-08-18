@@ -13,19 +13,19 @@ section
           .banner-principal__datos
             ul
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
+                p.h5.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
                 p.banner-principal__datos__item__texto Apropiación de Herramientas de Gestión del Riesgo Agroclimático
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
+                p.h5.mb-0.me-3.banner-principal__datos__item__titulo Código: 
                 p.banner-principal__datos__item__texto 72312149 versión 1
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
+                p.h5.mb-0.me-3.banner-principal__datos__item__titulo Total: 
                 p.banner-principal__datos__item__texto 48 Horas
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
+                p.h5.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
                 p.banner-principal__datos__item__texto 4 Semanas
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
+                p.h5.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo 
@@ -105,26 +105,20 @@ section
     .titulo__template--a.mb-4
       span.h4 3. Competencias a<br> desarrollar
 
-    p El curso está dirigido a profesionales, tecnólogos y técnicos en salud que requieren conocer elementos conceptuales y normativos para implementar procesos y procedimientos operativos básicos que garanticen una atención en salud integral, oportuna y de calidad a las víctimas de ataque con agentes químicos.
+    p 260402010 - Diagnosticar riesgo de desastres de acuerdo con metodologías y normativa.
 
+  
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 4. Estrategia<br>metodológica
-
-    p 260402010 - Diagnosticar riesgo de desastres de acuerdo con metodologías y normativa. 
-      
-  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
-    .titulo__template--a.mb-4
-      span.h4 5. Perfil de <br> ingreso
+      span.h4 4. Perfil de <br> ingreso
 
     p.mb-3 Modalidad virtual. 
 
     p.mb-3 Se requiere que el aprendiz tenga dominio de elementos básicos en el manejo de herramientas informáticas y de comunicación como correo electrónico, chat, procesadores de texto, software para presentaciones, navegadores de Internet y, otros sistemas y herramientas tecnológicas necesarias para la formación en ambientes virtuales.
 
-  //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 6.	Estrategia metodológica
+      span.h4 5.	Estrategia metodológica
 
     p.mb-3 La estrategia de este curso se enfoca en adquirir los conocimientos y habilidades de manera práctica que se articulen a las necesidades del aprendiz y su contexto, centrándose en el estudio autónomo, pero con la ayuda del instructor quien dará todas las pautas e información para irlo guiando durante el proceso y la duración de este escenario formativo. De esta manera se garantizará el aprendizaje por competencias, integrando los ambientes virtuales de aprendizaje como mediadores en este proceso. 
 
@@ -137,7 +131,7 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 7. Creditos
+      span.h4 6. Creditos
     .creditos
       div(
         v-for="(creditoKey, index) of Object.keys(creditosData)"
