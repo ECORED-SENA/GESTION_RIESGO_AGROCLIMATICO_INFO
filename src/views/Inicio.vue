@@ -71,7 +71,7 @@ section
 
     p.mb-3 <b>Mitigación:</b>
     
-    p - segurar calidad en los proyectos agrícolas.
+    p - Asegurar calidad en los proyectos agrícolas.
     p - Promover enfoques multisectoriales.
     p.mb-3 - Promover tecnologías de reducción del riesgo y sistemas de pronóstico climático.
 
@@ -80,7 +80,9 @@ section
 
     p - Promover procesos de recuperación específicos en el sector.
     p - Movilizar ayuda financiera como garantías y créditos a largo plazo.
-    p - Promover tecnologías mejoradas.
+    p.mb-3 - Promover tecnologías mejoradas.
+
+    p.mb-3 Al finalizar el recorrido por los contenidos y actividades se han desarrollado competencias desde la implementación de diferentes acciones participativas que integran la prevención, mitigación, respuesta y recuperación después del desastre natural, fortaleciendo sus medios de vida. De esta manera, al reconocer un riesgo se identifican las acciones que son llevadas a cabo de manera efectiva a partir de la experiencia, donde se logre detectar las amenazas y el reconocimiento de zonas seguras e identificar la adaptación al cambio climático, prácticas que podrían ser implementadas en el corto y mediano plazo.
 
 
 
@@ -89,7 +91,7 @@ section
     .titulo__template--a.mb-4
       span.h4 2. Justificación<br>del programa
 
-    p.mb-3 La agricultura en Colombia es uno de los pilares económicos más importantes, ya que mueve la economía del país y aporta a la canasta familiar de toda la población y aún más, promueve la importación, ya que el producto colombiano es de un sabor único y de excelente calidad, es muy apetecido en otros países como lo ha sido el café y el cacao que se comercializa por su excelente sabor. darle la atención correspondiente.
+    p.mb-3 La agricultura en Colombia es uno de los pilares económicos más importantes, ya que mueve la economía del país y aporta a la canasta familiar de toda la población y aún más, promueve la importación, ya que el producto colombiano es de un sabor único y de excelente calidad, es muy apetecido en otros países como lo ha sido el café y el cacao que se comercializa por su excelente sabor.
 
     p.mb-3 La agricultura aporta al desarrollo del país, ayuda a la población rural a minimizar la pobreza, brinda oportunidades de mejora a la población del campo, así mismo, ayuda al desarrollo sostenible y a la seguridad alimentaria; sin embargo, no todo es bueno en este campo, ya que se han venido presentando inconvenientes con ciertas restricciones en el mercado y el atraso en tecnología, sumado a esto el cambio climático que se viene generando en el mundo. Esto ha limitado algunos avances en los procesos, ha disminuido la producción, ya que el área agropecuaria depende de estas condiciones en todas las etapas vegetativas para obtener una cosecha productiva. 
 

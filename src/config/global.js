@@ -9,6 +9,12 @@ export default {
     ],
     contenidoInstruccional: [
       {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Lizeth Daniela Reinoso',
         cargo: 'Experto temático',
         centro: 'Centro Agropecuario La Granja Espinal - Regional Tolima',
@@ -22,12 +28,6 @@ export default {
         nombre: 'Oscar Absalón Guevara',
         cargo: 'Evaluador instruccional',
         centro: 'Centro de Gestión Industrial - Regional Distrito Capital ',
-      },
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Julia Isabel Roberto',
