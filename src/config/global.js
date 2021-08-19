@@ -84,14 +84,19 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
+        nombre: 'Andres Mauricio Santaella Ochoa',
+        cargo: 'Soporte  front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Gustavo Adolfo Marún Suárez',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
-
       {
-        nombre: 'Yenny Patricia Ulloa Villamizar',
+        nombre: 'Emilsen Alfonso Bautista',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
