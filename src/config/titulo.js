@@ -1,1 +1,1 @@
-module.exports = 'Nombre del componente formativo'
+module.exports = 'Apropiación de Herramientas de Gestión del Riesgo Agroclimático'
