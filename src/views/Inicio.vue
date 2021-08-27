@@ -14,7 +14,7 @@ section
             ul
               li.mb-3.banner-principal__datos__item
                 p.h5.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
-                p.banner-principal__datos__item__texto Apropiación de Herramientas de Gestión del Riesgo Agroclimático
+                p.banner-principal__datos__item__texto Aplicación de herramientas para la gestión del riesgo agroclimático 
               li.mb-3.banner-principal__datos__item
                 p.h5.mb-0.me-3.banner-principal__datos__item__titulo Código: 
                 p.banner-principal__datos__item__texto 72312149 versión 1
