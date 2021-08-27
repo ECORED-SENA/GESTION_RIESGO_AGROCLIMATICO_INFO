@@ -7,7 +7,7 @@ section
       .row.justify-content-around.align-items-center
         .col-lg-7.col-xxl-6.banner-principal__info
           .banner-principal__programa
-            .h1.mb-0 Apropiación de Herramientas de Gestión del Riesgo Agroclimático
+            .h1.mb-0 Aplicación de herramientas para la gestión del riesgo agroclimático 
           
           .h2 Información del programa
           .banner-principal__datos
@@ -35,7 +35,7 @@ section
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
           .video
-            | <iframe width="560" height="315" src="https://www.youtube.com/embed/ogpppmvM-Wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            | <iframe width="560" height="315" src="https://www.youtube.com/embed/9ooh4RS20bA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>           
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
@@ -47,7 +47,7 @@ section
     
     p.mb-3 Conozca un poco de este…
 
-    p.mb-3 En este curso se busca alcanzar la competencia Diagnosticar el riesgo de desastres de acuerdo con metodologías y normatividad, la cual presenta dos resultados de aprendizaje, el resultado de aprendizaje RA 1. Caracterizar riesgos agroclimáticos, según área de estudio y normatividad a través del cual se consolidan los contenidos referidos a la gestión del riesgo, marco normativo, variables climáticas, y el resultado de aprendizaje RA 2. Proponer medidas de riesgo y adaptación al cambio climático, según caracterización, el cual evidencia los contenidos de planificación de la producción agropecuaria, reducción del riesgo y adaptación al cambio climático, y planificación en la gestión del riesgo agroclimático.
+    p.mb-3 En este curso se busca alcanzar la competencia Diagnosticar el riesgo de desastres de acuerdo con metodologías y normatividad, la cual presenta dos resultados de aprendizaje, el resultado de aprendizaje RA 1. Caracterizar riesgos agroclimáticos, según área de estudio y normativa a través del cual se consolidan los contenidos referidos a la gestión del riesgo, marco normativo, variables climáticas, y el resultado de aprendizaje RA 2. Proponer medidas de reducción de riesgo y adaptación al cambio climático, según caracterización, el cual evidencia los contenidos de planificación de la producción agropecuaria, reducción del riesgo y adaptación al cambio climático, y planificación en la gestión del riesgo agroclimático.
 
     p.mb-3 De esta manera, se evidencian aprendizajes que pueden ser aplicados a las realidades de los diferentes contextos para la adecuada planificación frente a la gestión del riesgo agroclimático.
 
@@ -107,7 +107,7 @@ section
     .titulo__template--a.mb-4
       span.h4 3. Competencias a<br> desarrollar
 
-    p 260402010 - Diagnosticar riesgo de desastres de acuerdo con metodologías y normativa.
+    p 260402010 - Diagnosticar riesgo de desastres de acuerdo con metodologías.
 
   
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")

@@ -1,1 +1,2 @@
-module.exports = 'Apropiación de Herramientas de Gestión del Riesgo Agroclimático'
+module.exports =
+  'Aplicación de herramientas para la gestión del riesgo agroclimático '
